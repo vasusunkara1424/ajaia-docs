@@ -2,7 +2,7 @@
 
 A lightweight collaborative document editor: create, format, import, and share documents.
 
-**Live app:** `<LIVE_URL>` (free tier: first load after idle can take ~50s while the server wakes)
+**Live app:** https://ajaia-docs-1b06.onrender.com (free tier: first load after idle can take ~50s while the server wakes)
 
 | Demo account | Password |
 |---|---|

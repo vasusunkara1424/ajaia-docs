@@ -1,7 +1,7 @@
 # Submission: Ajaia Docs
 
 **Candidate:** Venkata Srinivas Sunkara
-**Live app:** `<LIVE_URL>`
+**Live app:** https://ajaia-docs-1b06.onrender.com
 **Walkthrough video:** see `VIDEO_URL.txt`
 
 ## Test accounts
