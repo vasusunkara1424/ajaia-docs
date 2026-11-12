@@ -1,0 +1,15 @@
+# Runtime dependencies (pinned for reproducible builds)
+fastapi==0.115.14
+uvicorn[standard]==0.54.0
+sqlalchemy==2.0.57
+pydantic-settings==2.16.2
+email-validator==2.3.0
+pyjwt==2.15.0
+python-multipart==0.0.32
+psycopg[binary]==3.3.8
+
+# Document conversion and sanitization
+mammoth==1.11.0
+markdown==3.11
+markdownify==1.2.3
+nh3==0.3.7
